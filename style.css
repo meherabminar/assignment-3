@@ -1,5 +1,11 @@
-@media screen and (max-width:<576px) {
+@media screen and (max-width:576px) {
     .imagin img {
         width: 100%;
+    }
+
+    .mobile {
+        margin-bottom: 0%;
+        padding-bottom: 0%;
+        font-size: 10px;
     }
 }
